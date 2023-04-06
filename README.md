@@ -14,6 +14,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```sh
 npm install
+npm install vuex@latest
 ```
 
 ### Compile and Hot-Reload for Development
@@ -27,3 +28,10 @@ npm run dev
 ```sh
 npm run build
 ```
+Login Page
+![LoginVue](https://user-images.githubusercontent.com/37175072/230307457-0d3bc672-1fb5-4150-9530-3278412064cd.PNG)
+
+
+Landing Page
+![PortfolioVUe](https://user-images.githubusercontent.com/37175072/230307564-b132738d-a608-4780-a7ad-d7ff04d27411.PNG)
+
